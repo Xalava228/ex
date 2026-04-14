@@ -1,0 +1,16 @@
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\bin\Debug\DemoSam.exe.config
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\bin\Debug\DemoSam.exe
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\bin\Debug\DemoSam.pdb
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.FormAutorization.resources
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.exe
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.pdb
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.exe.config
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.MainForm.resources
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.ProductCard.resources
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.Orders.resources
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.OrdersCard.resources
+C:\Users\bogda\OneDrive\Desktop\DemoSam\DemoSam\DemoSam\obj\Debug\DemoSam.DetailProduct.resources
